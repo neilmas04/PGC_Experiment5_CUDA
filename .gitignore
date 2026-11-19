@@ -1,0 +1,30 @@
+# Compiled executables and object files
+*.exe
+*.obj
+*.o
+*.dll
+*.lib
+*.exp
+
+# CUDA build artifacts
+*.cubin
+*.fatbin
+*.ptx
+*.sass
+*.nvbin
+
+# Visual Studio / editor files
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Temporary and log files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
